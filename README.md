@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Welcome+to+my+presentation;Ruanet+Alejandro+Ozuna+Diaz;Information+Technology+Engineering+Student;Proactive+learning" alt="Typing SVG" /></a>
+
 ### Hello 👋 I am Ruanet Alejandro Ozuna Diaz,
 
 I'm a third year student of information technology engineering at Universidad Politecnica de Sinaloa and I'm also soon to take a summer of research by Programa Delfin 🐬 in the field of Robotics 🤖.
