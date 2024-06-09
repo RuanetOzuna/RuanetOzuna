@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Welcome+to+my+presentation;Ruanet+Alejandro+Ozuna+Diaz;Information+Technology+Engineering+Student;Proactive+learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Welcome+to+my+presentation;Ruanet+Alejandro+Ozuna+Diaz;Information+Technology+Engineering;Proactive+learning" alt="Typing SVG" /></a>
 
 ### Hello 👋 I am Ruanet Alejandro Ozuna Diaz,
 
@@ -51,7 +51,7 @@ I'm a third year student of information technology engineering at Universidad Po
    <i>Failure is not an option.</i>
    <br>
 <br>	
-<a target="_blank" href="www.linkedin.com/in/ruanetozuna"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/ruanetozuna"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:ruanetozunadiaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
